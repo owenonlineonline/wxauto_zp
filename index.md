@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 自动招聘系统-微信自动群发，该系统的最终用户是企业的招聘专员/经理，它可以通过微信进行群消息的自动群发，发布招聘职位，提高招聘效率。
 
 You can use the [editor on GitHub](https://github.com/owenonlineonline/wxauto_zp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
